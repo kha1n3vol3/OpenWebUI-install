@@ -1,0 +1,5 @@
+openai
+requests
+pydantic
+open-webui
+groq
